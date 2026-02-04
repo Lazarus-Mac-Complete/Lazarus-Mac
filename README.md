@@ -1,6 +1,6 @@
 # Lazarus Mac
 
-<img src="https://static.macupdate.com/products/62634/l/lazarus-logo.png?v=1617300082" width="200" alt="Application icon" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" width="200" alt="Application icon" align="left"/>
 
 <div>
 <h3>Lazarus</h3>
@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://cdn.tarnkappe.info/wpimg/macos-unter-beschuss-krypto-diebe-tarnen-boesartige-app-als-pdf" width="824" alt="Interface"/>
+<img src="https://mac-cdn.softpedia.com/screenshots/Lazarus_18.jpg" width="824" alt="Interface"/>
 
 </div>
 
@@ -62,7 +62,7 @@ Performance optimization through background processing maintains interface respo
 ## Additional Screenshots
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdN_7Kau4m6xWV0iEt0kPfHDN23dQfJlZKIg&s" width="824" alt="Lazarus features"/>
+  <img src="https://static.filehorse.com/screenshots-mac//developer-tools/lazarus-mac-screenshot-01.png" width="824" alt="Lazarus features"/>
 </p>
 
 ---
